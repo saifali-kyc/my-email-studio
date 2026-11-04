@@ -7,22 +7,22 @@ Last week we looked at the Five Horizons. This week we slow down on one term: **
 
 [Start reading free](http://agentfactory2.panaversity.org/five-horizons/)
 
-Here is how the book defines it. AI Workers, also called Digital FTEs, are reliable AI agents designed to perform structured knowledge work continuously inside real organizations.
+Here is how the book defines it. AI Workers "are reliable AI agents designed to perform structured knowledge work continuously inside real organizations."
 
-**What an AI Worker is not:** a model with a prompt. A chatbot answers a question and stops. An AI Worker does a defined job, again and again, in a way people can check.
+**An AI Worker is more than a model with a prompt.** A chatbot answers a question and stops. An AI Worker carries out a defined task, again and again, in a way people can check.
 
 The book names four parts that make that possible:
 
-- **Clear specifications:** what the worker must do.
-- **Domain expertise:** the knowledge that guides its decisions.
-- **Engineering architecture:** the setup that keeps it reliable.
-- **Human oversight:** the checks that keep it accountable.
+- **Structured Specifications:** what the worker must do.
+- **Domain Expertise:** the knowledge that guides its decisions.
+- **Engineering Architecture:** the setup that keeps it reliable.
+- **Human Oversight:** the checks that keep it accountable.
 
 The last part is the one we want to stress. AI Workers do the work, but they don't decide what the work is for. Humans set purpose, define authority, and remain accountable.
 
-**This week's small lesson:** pick one tool you use at work or study. Ask yourself: does it answer questions, or does it do a job? That question is the line between a chatbot and an AI Worker.
+**This week's small lesson:** pick one tool you use at work or study. Ask yourself: does it answer questions, or does it carry out a task? That question is the line between a chatbot and an AI Worker.
 
-The opening chapters walk through this step by step.
+The book walks through this idea in more depth.
 
 [Start reading free](http://agentfactory2.panaversity.org/five-horizons/)
 

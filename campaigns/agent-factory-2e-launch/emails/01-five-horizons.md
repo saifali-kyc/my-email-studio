@@ -7,7 +7,7 @@ Most of us have typed a question into a chatbot and waited for the answer. That 
 
 [Start reading free](http://agentfactory2.panaversity.org/five-horizons/)
 
-The AI Agent Factory, second edition, describes the path in four moves: from querying software, to prompting chatbots, to delegating to agents, to managing **AI Workers**. The book maps that path as **Five Horizons**:
+The AI Agent Factory, second edition, describes the path from querying software, to prompting chatbots, to delegating to agents, to managing **AI Workers**. The book maps it as **Five Horizons**:
 
 - **H0:** the AI Agent era (2024–2026)
 - **H1:** the AI Worker era (2026–2028)
@@ -21,7 +21,7 @@ These dates are our best forecasts, not promises. The order matters more than th
 
 Across every horizon, one thing stays the same: humans set purpose, define authority, and remain accountable.
 
-Start with the first chapter. It takes a few minutes.
+Start with the first chapter, at your own pace.
 
 [Start reading free](http://agentfactory2.panaversity.org/five-horizons/)
 

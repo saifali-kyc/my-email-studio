@@ -1,5 +1,5 @@
 Subject: Your first step with AI Workers this week
-Preview: A ten-minute exercise: three questions to ask before you hand any task to an agent.
+Preview: A short exercise: three questions to ask before you hand any task to an agent.
 
 Hi {{first_name}},
 

@@ -15,6 +15,8 @@ We write like a calm mentor talking to students. We teach first and sell second.
 - Words for learning: *learn, build, practise, chapter, step, guide, together*.
 - Honest words for forecasts: *we expect, likely, may, our best guess*.
 - The main call to action, word for word: **"Start reading free"**.
+- **British spelling** in everything we write: *organisation, practise, summarise*. When we quote the book in quotation marks, keep its exact wording and spelling.
+- Say "task", not "job", when we mean a piece of work, so it can never read as a promise of employment.
 
 ## 3. Words we avoid
 

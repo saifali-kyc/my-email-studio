@@ -10,18 +10,18 @@ This is the last email in our short series. We started with prompting chatbots. 
 The later horizons in the book are forecasts. We hold them loosely, and we think you should too.
 
 - **H2, the AI Workforce era (2028–2032):** we expect AI Workers to work in teams, not one at a time.
-- **H3, the AI-Native Company and Country (2032+):** organisations may be designed around AI Workers from the start.
+- **H3, the AI-Native Company and Country (2032+):** organisations, and perhaps whole countries, may be designed around AI Workers from the start.
 - **H4, the Autonomous Economy (2035+):** our best guess at where this path could lead in the long run.
 
 The dates may move. What we don't expect to move is the rule that runs through every horizon: humans set purpose, define authority, and remain accountable.
 
 **One last small lesson:** look back at the task you used in last week's exercise. Which horizon does it belong to today? Which one might it belong to in five years? There is no right answer. The point is to start thinking in horizons.
 
-That is what the book is for. It is free to start, and you can read at your own pace.
+That is what the book is for. You can start reading free, at your own pace.
+
+Thank you for reading along over these four weeks.
 
 [Start reading free](http://agentfactory2.panaversity.org/five-horizons/)
-
-Thank you for reading along these four weeks.
 
 See you in the next chapter,
 The Panaversity Team
