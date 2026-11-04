@@ -16,3 +16,5 @@ Reference files in the root folder: `brand-brief.md` (facts about the book), `em
 - Write in plain English.
 - Never send email to real people.
 - Ask me before deleting anything.
+
+@brand/voice.md
