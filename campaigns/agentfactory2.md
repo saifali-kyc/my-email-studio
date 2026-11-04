@@ -6,7 +6,7 @@ Awareness campaign by email only. Every email follows `brand/voice.md` and goes 
 
 - **Campaign name:** Five Horizons
 - **Summary:** Over four weeks, we send four short teaching emails. Each one explains one idea from the book and invites the reader to "Start reading free".
-- **Main goal:** 32,000 clicks on "Start reading free" between Monday 9 November and Sunday 6 December 2026.
+- **Main goal:** 2,000 clicks on "Start reading free" between Monday 9 November and Sunday 6 December 2026.
 - **Other goals:**
   - Help each reader understand one idea from the book: the move from prompting chatbots to managing AI Workers.
   - Learn which of our four groups responds best, so we can plan the next campaign.
@@ -92,7 +92,7 @@ Each email has two subject line options to test against each other.
 
 | Metric | Target | How we track it |
 |---|---|---|
-| **Clicks on "Start reading free" (main goal)** | **32,000 by Sun 6 Dec 2026** | Tracking links per email and group |
+| **Clicks on "Start reading free" (main goal)** | **2,000 by Sun 6 Dec 2026 (about 500 per email)** | Tracking links per email and group |
 | Click rate per email | Higher than the previous email | Clicks ÷ emails delivered |
 | Clicks per group | Students and career-switchers lead | Group tag in each link |
 | Open rate | Steady or rising week to week | Email tool report |
@@ -117,14 +117,14 @@ The budget is small. The campaign uses email only and no paid ads. We have no fi
 
 | Risk | Why it matters | Mitigation |
 |---|---|---|
-| The goal is too high for our list | 32,000 clicks from four emails means about 8,000 clicks per email. At a typical click rate of 3–5%, that needs a list of roughly 160,000 to 270,000 people. We don't know our list size yet. | Confirm the list size before 9 Nov. If it is smaller, change the goal or add a second channel in the next campaign. |
+| Our list is too small for the goal | 2,000 clicks from four emails means about 500 clicks per email. At a typical click rate of 3–5%, that needs a list of roughly 10,000 to 17,000 people. We don't know our list size yet. | Confirm the list size before 9 Nov. If it is smaller, lower the goal or add a second channel in the next campaign. |
 | Sends near the US Thanksgiving holiday (Thu 26 Nov) | Fewer people may open emails in week 3 | Week 3 sends on Tue 24 and Wed 25 Nov, before the holiday. Watch the week 3 results closely. |
 | Stating facts that aren't confirmed | `brand/voice.md` forbids stating the launch date, prices, certificates, the author byline or what's new in the second edition until they're confirmed | Leave these out. Run `/marketing:brand-review` on every email before sending. |
 | One group stops opening | We lose part of our audience | Check on Fri 20 Nov and rewrite the subject lines or examples for that group. |
 
 ## 10. Next steps
 
-1. Confirm the email list size and whether the 32,000-click goal is realistic (by Fri 6 Nov).
+1. Confirm the email list size and whether the 2,000-click goal is realistic (by Fri 6 Nov).
 2. Create the practice leads in `leads/`, with all four group tags.
 3. Write email 1 and its four group versions, then run the brand review.
 4. Set up tracking links for every email and group.
